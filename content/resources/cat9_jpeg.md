@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/ibrahims-cat-course/cat92.jpeg
+file: /media/courses/125-ibrahims-cat-course-summer-2023/cat92.jpeg
 file_size: 70147
 file_type: image/jpeg
 image_metadata:
