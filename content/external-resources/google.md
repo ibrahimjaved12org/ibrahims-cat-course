@@ -1,5 +1,4 @@
 ---
-backup_url_status_code: null
 content_type: external-resource
 external_url: https://www.google.com
 has_external_license_warning: true
