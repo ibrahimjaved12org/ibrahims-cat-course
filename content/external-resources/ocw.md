@@ -7,5 +7,5 @@ status: valid
 title: OCW
 uid: 8859d738-c80b-4a1f-906e-9a771a2ea540
 url_status_code: 200
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241128102258/https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/pages/assignments/
 ---
