@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: miniclip
 uid: 3da5132c-349f-48f8-b3e6-2dfe58118971
-wayback_url: https://web.archive.org/web/20241128102623/https://miniclip.com/
+wayback_url: https://web.archive.org/web/20241129080819/https://miniclip.com/
 ---
