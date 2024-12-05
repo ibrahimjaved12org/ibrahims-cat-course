@@ -7,4 +7,5 @@ is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: youtube
 uid: 25fae5c0-6c08-4921-b347-e903c9c72b5c
+wayback_url: https://web.archive.org/web/20241205110335/https://www.youtube.com/
 ---

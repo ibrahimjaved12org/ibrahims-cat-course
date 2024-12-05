@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: Arbisofts product
 uid: b0cf1806-daf9-4352-a047-c7d77a3364dc
-wayback_url: https://web.archive.org/web/20241129125413/https://arbisoft.com/products
+wayback_url: https://web.archive.org/web/20241205111512/https://arbisoft.com/products
 ---

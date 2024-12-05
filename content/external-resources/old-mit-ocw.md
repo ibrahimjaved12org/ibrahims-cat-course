@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: Old MIT OCW
 uid: 547130a4-5289-4c56-a85b-b3572dfb8836
-wayback_url: https://web.archive.org/web/20241205083515/https://opencw.aprende.org/
+wayback_url: https://web.archive.org/web/20241205111557/https://opencw.aprende.org/
 ---
