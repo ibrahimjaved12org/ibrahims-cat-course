@@ -7,5 +7,5 @@ status: valid
 title: Google
 uid: abf7611f-cf2b-4c97-84c2-77c9a8f8163b
 url_status_code: 200
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241205080752/https://www.google.com/
 ---
