@@ -1,10 +1,10 @@
 ---
-backup_url: ''
 content_type: external-resource
-external_url: https://ocw.mit.edu/
-has_external_license_warning: false
-is_broken: ''
+external_url: https://live-qa.ocw.mit.edu/
+has_external_license_warning: true
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
 title: ocw
-uid: 013b013f-6e1d-44f0-9498-375e2dfd3f72
+uid: 3d096837-61e8-47c6-9534-0af58bb9e1b1
+wayback_url: ''
 ---
