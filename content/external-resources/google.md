@@ -1,5 +1,4 @@
 ---
-backup_url_status_code: null
 content_type: external-resource
 external_url: https://www.google.com
 has_external_license_warning: true
@@ -8,5 +7,5 @@ status: valid
 title: Google
 uid: abf7611f-cf2b-4c97-84c2-77c9a8f8163b
 url_status_code: 200
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241205122636/https://www.google.com/
 ---
