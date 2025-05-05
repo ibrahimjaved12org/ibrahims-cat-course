@@ -15,9 +15,9 @@ title: lec16_local
 uid: 72a7b97a-db7f-4b2a-8069-46d5b7a1f848
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/108-ibrahims-cat-course-spring-2023/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/108-ibrahims-cat-course-spring-2023/E8uZtq_vOYM_transcript.pdf
 video_metadata:
   source: youtube
   video_speakers: ''
