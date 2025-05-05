@@ -19,7 +19,7 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/WJOTTGH_HkM/default.jpg
   video_transcript_file: ''
 video_metadata:
-  source: ''
+  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
