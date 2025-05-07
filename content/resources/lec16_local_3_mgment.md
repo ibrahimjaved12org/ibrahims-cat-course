@@ -15,11 +15,11 @@ title: lec16_local_3_mgment
 uid: f0ed70bd-631d-4934-a155-01cf756faaee
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/108-ibrahims-cat-course-spring-2023/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/108-ibrahims-cat-course-spring-2023/E8uZtq_vOYM_transcript.pdf
 video_metadata:
-  source: ''
+  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
